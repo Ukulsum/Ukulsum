@@ -1,4 +1,4 @@
- ![Font-end Developer](https://media-exp1.licdn.com/dms/image/C5616AQH7M4oJeaXFbw/profile-displaybackgroundimage-shrink_800_800/0/1661034802903?e=1666224000&v=beta&t=0la8oyjxw4qQ5N14ywGTpg1w4_urnCOBq5-0zEjd2Z8)
+ ![Font-end Developer](https://media-exp1.licdn.com/dms/image/C5616AQH7M4oJeaXFbw/profile-displaybackgroundimage-shrink_200_800/0/1661034802903?e=1666224000&v=beta&t=0la8oyjxw4qQ5N14ywGTpg1w4_urnCOBq5-0zEjd2Z8)
 ### Hi there 👋, I'm Umme Kulsum
 #### Font-end Developer
 
