@@ -4,7 +4,7 @@
 #### Font-end Developer
 
 
-I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I always love to work. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.I always  try myself on doing quality work and maintain excellent communication. Most of the time I work with PSD to Html and WordPress but some technologies I enjoy working with include JavaScript.
+I’m a Front-End Web developer who is passionate about making error-free websites with 100% client satisfaction. I always love to work. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.I always  try myself on doing quality work and maintain excellent communication. Most of the time I work with PSD to Html and WordPress but some technologies I enjoy working with include JavaScript.
 
 Skills:  JS / HTML / CSS / Bootstrap / PSD to HTML
 
