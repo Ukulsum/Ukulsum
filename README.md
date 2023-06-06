@@ -1,7 +1,7 @@
 ![Font-end Developer](https://media-exp1.licdn.com/dms/image/C5616AQHbmHxB14VTTg/profile-displaybackgroundimage-shrink_200_800/0/1661034971640?e=1666224000&v=beta&t=g9c0FbqaVGZ7E_1DIvW050OuFlKnvocF6lQnPKUOOs4)
 
 ### Hi there 👋, I'm Umme Kulsum
-#### Font-end Developer
+#### I am a Professional .Net Developer in Bangladesh.
 
 
 I’m a Front-End Web developer who is passionate about making error-free websites with 100% client satisfaction. I always love to work. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.I always  try myself on doing quality work and maintain excellent communication. Most of the time I work with PSD to Html and WordPress but some technologies I enjoy working with include JavaScript.
