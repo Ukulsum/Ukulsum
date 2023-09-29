@@ -1,17 +1,13 @@
-![Font-end Developer](https://media-exp1.licdn.com/dms/image/C5616AQHbmHxB14VTTg/profile-displaybackgroundimage-shrink_200_800/0/1661034971640?e=1666224000&v=beta&t=g9c0FbqaVGZ7E_1DIvW050OuFlKnvocF6lQnPKUOOs4)
+
 
 ### Hi there 👋, I'm Umme Kulsum
 #### I am a Professional .Net Developer in Bangladesh.
 
-
-I’m a Front-End Web developer who is passionate about making error-free websites with 100% client satisfaction. I always love to work. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.I always  try myself on doing quality work and maintain excellent communication. Most of the time I work with PSD to Html and WordPress but some technologies I enjoy working with include JavaScript.
-
-Skills:  JS / HTML / CSS / Bootstrap / PSD to HTML
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Development 
+- 🔭 I’m currently working on **IsDB-BISEW Scholarship Program**.
+- I’m interested in Development using ASP.NET & ASP.NET Core,Angular e.t.c
+- 🌱 I’m currently learning **ASP.NET using C Sharp** 
+- 👯 I’m looking to collaborate on ....
+- 💬 Ask me about software Development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/github)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/UmmeKulsum/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/UmmeKulsum)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/UmmeKulsum/)  
